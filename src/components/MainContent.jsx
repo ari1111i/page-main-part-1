@@ -23,7 +23,7 @@ const Ps = styled('P')`
 `
 const Img = styled('img')`
    margin-left: 100px;
-   margin-top: -150px;
+   margin-top: -149px;
 `
 
 export function MainContent() {
