@@ -39,7 +39,7 @@ export function MainContent() {
                найти список опубликованных вещей, забронировав, вы связываетесь
                с их обладателем.
             </Ps>
-            <Img src={img} alt="" />
+            <Img src={img} alt="picture" />
          </Div>
       </div>
    )
